@@ -1,0 +1,44 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    margin: 20px;
+    user-select: none;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#menu {
+    margin-top: 10px;
+}
+
+label {
+    margin-right: 5px;
+}
+
+select {
+    margin-right: 10px;
+    padding: 2px 4px;
+}
+
+button {
+    padding: 2px 8px;
+    cursor: pointer;
+}
+
+#game-area {
+    display: none;
+}
+
+#hud {
+    position: relative;
+    z-index: 2;
+    width: 220px;
+}
+
+#target {
+    position: absolute;
+    cursor: pointer;
+}
