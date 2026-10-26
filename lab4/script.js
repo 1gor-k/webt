@@ -9,9 +9,9 @@ document.addEventListener("DOMContentLoaded", function () {
     const target = document.getElementById("target");
 
     const difficultySettings = {
-        lazy:   { time: 2, size: 60, maxDistance: 220 },
-        normal: { time: 1, size: 50, maxDistance: 450 },
-        hard:   { time: 0.5, size: 40, maxDistance: Infinity }
+        lazy:   { time: 4, size: 60, maxDistance: 220 },
+        normal: { time: 2, size: 50, maxDistance: 450 },
+        hard:   { time: 1, size: 40, maxDistance: Infinity }
     };
 
     let score = 0;
