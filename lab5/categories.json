@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбуки",
+    "shortname": "laptops",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ноутбуки для роботи та навчання."
+  },
+  {
+    "id": 2,
+    "name": "Смартфони",
+    "shortname": "smartphones",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Сучасні мобільні пристрої."
+  },
+  {
+    "id": 3,
+    "name": "Аксесуари",
+    "shortname": "accessories",
+    "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Периферія та корисні гаджети."
+  }
+]
