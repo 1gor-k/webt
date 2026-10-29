@@ -1,0 +1,34 @@
+{
+  "categoryName": "Аксесуари",
+  "categoryNotes": "Lorem ipsum dolor sit amet — навушники, миші, клавіатури та зарядні пристрої.",
+  "items": [
+    {
+      "id": 301,
+      "name": "Механічна клавіатура KeyPro",
+      "shortname": "keypro-mech",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Тактильні перемикачі та RGB-підсвічування клавіш.",
+      "price": "3 400 грн"
+    },
+    {
+      "id": 302,
+      "name": "Бездротова миша GlideX",
+      "shortname": "glidex-mouse",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Оптичний сенсор 16000 DPI та ергономічна форма.",
+      "price": "2 150 грн"
+    },
+    {
+      "id": 303,
+      "name": "TWS Навушники SoundPods",
+      "shortname": "soundpods-tws",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Активне шумозаглушення (ANC) та до 30 годин роботи.",
+      "price": "4 800 грн"
+    },
+    {
+      "id": 304,
+      "name": "Універсальний GaN Зарядний блок 65W",
+      "shortname": "gan-charger-65w",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Швидка зарядка для ноутбуків та смартфонів через USB-C.",
+      "price": "1 450 грн"
+    }
+  ]
+}
