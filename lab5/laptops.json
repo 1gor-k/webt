@@ -1,0 +1,34 @@
+{
+  "categoryName": "Ноутбуки",
+  "categoryNotes": "Lorem ipsum dolor sit amet — продуктивні лептопи для будь-яких завдань.",
+  "items": [
+    {
+      "id": 101,
+      "name": "UltraBook Pro 14",
+      "shortname": "ultrabook-14",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Легкий алюмінієвий корпус, 16 ГБ ОЗП, SSD 512 ГБ.",
+      "price": "42 500 грн"
+    },
+    {
+      "id": 102,
+      "name": "Gaming Beast X15",
+      "shortname": "gaming-x15",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ігровий ноутбук з дисплеєм 144 Гц та потужною відеокартою.",
+      "price": "54 999 грн"
+    },
+    {
+      "id": 103,
+      "name": "OfficeMate Air 15",
+      "shortname": "officemate-15",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Надійний вибір для офісної роботи та дистанційного навчання.",
+      "price": "24 800 грн"
+    },
+    {
+      "id": 104,
+      "name": "Creator Studio 16",
+      "shortname": "creator-16",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Професійний OLED-екран для роботи з графікою та відео.",
+      "price": "68 000 грн"
+    }
+  ]
+}
